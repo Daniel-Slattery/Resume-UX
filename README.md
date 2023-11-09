@@ -1,3 +1,3 @@
-A static web page with emphasis on good UX design
+A static web site detailing my resume
 
  https://daniel-slattery.github.io/Resume-UX/
